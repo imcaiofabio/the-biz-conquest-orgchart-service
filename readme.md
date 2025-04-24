@@ -62,3 +62,4 @@ Tested with 10k org charts and fast queries using indexed fields
 
 - Indexed: org_id, manager_id  
 - No pagination, tests or production DB volume yet  
+- Project structure scaffolded with ChatGPT
